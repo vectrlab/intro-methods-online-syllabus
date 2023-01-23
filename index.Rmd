@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -37,7 +37,7 @@ Email:	          david.schuster@sjsu.edu
 Office Hours:	    Thursdays 10:45am-11:45am in-person and Zoom
 
 # Course Information
-Classroom:	      DMH 359
+Classroom:	      Online; see the meeting link on Canvas
 
 Class Days/Time:	Tues., 10:30am – 11:45am
 
