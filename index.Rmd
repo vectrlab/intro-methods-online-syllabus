@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
-<p align="center">See the <a href="https://sjsu.zoom.us">Zoom</a>latest version of this document</p>
+<p align="center">**May be out of date** _[See the latest version of this syllabus](https://vectrlab.github.io/intro-methods-online-syllabus)_</a></p>
 
 # Instructor Contact Information
 Instructor:	      David Schuster, Ph.D.
