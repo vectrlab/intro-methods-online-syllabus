@@ -23,6 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
+<p align="center">See the <a href="https://sjsu.zoom.us">Zoom</a>latest version of this document</p>
 
 # Instructor Contact Information
 Instructor:	      David Schuster, Ph.D.
