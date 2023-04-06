@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -316,11 +316,11 @@ Week Date                   Topics                                              
 15	  Tue., May 9           Statistics and effect size, continued                                                   Quiz 11
 
       Thu., May 11 	        Exam 3 (Thu.)
+
+
+      Mon., May 15          Last day of instruction, assignment submission ends 11:59 pm
       
-      Mon., May 15          Last day of instruction, assignment submission ends 11:59 pm                             
-
-Final Thu., May 18	        Project presentations, 9:45am - 12:00pm                                                 Final project
-
+      
 Final Tue., May 23	        Project presentations, 9:45am - 12:00pm                                                 Final project
 
 ------------------------------------------------------------------------------------------------------------------------------------------
