@@ -2,11 +2,11 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -299,7 +299,7 @@ Week Date                   Topics                                              
 
 11	  Tue., Apr. 11         Experimental designs, continued; quasi-experimental designs                 Ch. 7       
 
-      Thu., Apr. 13	        Introducing the project (Thu.)
+      Thu., Apr. 13	        Introducing the project  
 
 12	  Tue., Apr. 18         Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8
 
@@ -309,17 +309,14 @@ Week Date                   Topics                                              
 
       Thu., Apr. 27	        
 
-14	  Tue., May 2           Statistics and effect size (Tue.)                                           Ch. 10      Quiz 10,Act. 10    
+14	  Tue., May 2           Statistics and effect size                                                  Ch. 10      Quiz 10,Act. 10    
+      Thu., May 4	           
 
-      Thu., May 4	          Project workshop (Thu.)
-
-15	  Tue., May 9           Statistics and effect size, continued                                                   Quiz 11
+15	  Tue., May 9           Statistics and effect size, continued; exam review                                      Quiz 11
 
       Thu., May 11 	        Exam 3 (Thu.)
 
-
       Mon., May 15          Last day of instruction, assignment submission ends 11:59 pm
-      
       
 Final Tue., May 23	        Project presentations, 9:45am - 12:00pm                                                 Final project
 
