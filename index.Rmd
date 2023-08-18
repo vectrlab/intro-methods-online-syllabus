@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">**PSYC 018: Introduction to Research Methods**</p>
 
-<p align="center">**Section 6, Spring 2023**</p>
+<p align="center">**Section 80, Fall 2023**</p>
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
@@ -32,12 +32,12 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    Thursdays 10:45am-11:45am in-person and [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09)
+Office Hours:	    Tuesdays and Thursdays 10:00am-11:00am in-person and [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
 
 # Course Information
-Classroom:	      Online; see the meeting link on Canvas
+Classroom:	      Online; this is an asynchronous course
 
-Class Days/Time:	Tues., 10:30am – 11:45am
+Class Days/Time:	Online
 
 Prerequisites:	  PSYC 001 and STAT 095 or equivalents
 
@@ -54,7 +54,8 @@ The catalog description of this course is: Psychological research methods and de
 
 ## Course Format
 
-This is an online hybrid course. That means we will meet synchronously on Zoom on Tuesdays at 10:30. The remaining course activities are completed asynchronously. Exams will be held asynchronously on Thursdays.
+This is an asynchronous online course. That means that you will complete each week's material at your own pace.
+
 
 # Learning Outcomes {#learningoutcomes}
 
@@ -113,9 +114,7 @@ You will need the textbook for required readings throughout the semester. Supple
 
 A laptop or tablet computer with Internet access will be necessary to participate in class activities, take exams, and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. You will need a keyboard and the ability to browse web sites and use spreadsheets, a calculator, a word processor, and a stopwatch. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources. 
 
-Because it is distracting, please avoid non-class technology use during class.
-
-We may hold meetings via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable and cover your webcam when not in use.
+You may choose to meet with me via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable or cover your webcam when not in use.
 
 This course may require occasional use of software such as Excel and Word. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
 
@@ -175,35 +174,47 @@ F	                    < 595 points
 
 The point totals reflect rounding up to the nearest percentage. For example, an A- would normally require 900 points (or 90% of 1000 points). With rounding, it only requires 896 points (or 89.6% of 1000 points). Because rounding is built into the grading scale, your grade will be based on your final point total, rounded to the nearest whole point (so, 895.6 points is an A-, but 895.4 points is a B+). To be fair to everyone in the class, these are firm cutoffs.
 
+
 # Course Requirements and Assignments {#assignments}
+
+## Engagement Week (5% of grade = 50 points)
+Just as the name would imply, Engagement Week is your opportunity to make sure you’re ready for our asynchronous online course, and if so, that you are also ready to meet the challenges, responsibilities, and expectations of this class in particular.  The week will involve activities designed to get you ready to succeed in our class.
+
+- Get on Canvas – Getting logged into and familiar with Canvas is key to your success.  Activate your Canvas account and view our course site. Open the “Modules” page to see all the materials for each week of the course. Download everything in the first module (labeled “Start Here”), and keep these materials handy throughout the course.
+
+- Watch the welcome video
+
+- Your personalized schedule – This activity guides you in the preparation of your individualized class schedule. Instructions can be found on the “Modules” page on Canvas. 
+
+- Introduce yourself and respond to the prompt on our discussion board
 
 ## Activity Assignments (30% of grade = 300 points)
 Ten activities are worth 30 points each. The activities are designed to give you hands-on practice with the techniques discussed in the lecture and handouts. For each assigned activity, attempt every item at least once. Type out your answers to each item along with any work needed to solve the problem. This is graded for completion, (it is okay to make mistakes!) and you must attempt every item without leaving any blank. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. Always check your completed work against any answer key posted to Canvas for feedback on your mastery. I am always happy to answer your questions about the activities, discuss strategies, and/or provide additional feedback on your work. Maps onto CLOs 1-7.
 
 ## Reflection Questions (10% of grade = 100 points)
-Ten reflection questions are worth 10 points each. At the conclusion of most Zoom lectures, I will offer a reflection question. The purpose of the reflection question is to help you think actively about the lecture content and connect it to your own experience. You will answer the reflection question in the Zoom chat window, and you must be present in the lecture to answer this question. This is graded for completion (it is okay to not have the right answer). Maps onto CLOs 1-7.
+Ten reflection questions are worth 10 points each. During video lectures, I will ask one or more a reflection questions; you only need to find and answer one of them. Lecture 10 has no question in the video; instead, I will post a question on Canvas. The purpose of the reflection question is to help you think actively about the lecture content and connect it to your own experience. This is graded for completion (it is okay to not have the right answer). Maps onto CLOs 1-7.
 
 ## Quizzes (15% of grade = 150 points)
 Eleven quizzes are worth 15 points each, and the lowest one is dropped (making each quiz only about 1.4% of your final grade). This leaves 10 quizzes worth 15 points each, for a total of 150 points. Quizzes are desgined to give you quick, low-stakes feedback on your mastery of the prior unit. Most weeks, a quiz will be assigned within Canvas. You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your quiz alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots, except the instructor during a quiz. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during a quiz, but you may not post messages or send e-mails to someone while you take a quiz. As with activities, I am always happy to answer your questions following the quiz or discuss its concepts in more detail.
 In summary: Live help or automation is not okay for quizzes, but any other resources are okay. Please let me know if you have questions about what is allowed during quizzes or exams. Maps onto CLOs 1-8.
 
-## Exams (20% of grade = 200 points)
-Three exams are worth aproximately 67 points each, which is less than 7% of your final grade per exam. The purpose of the exams is to give you feedback on your ability to apply the knowledge learned in the previous part of the course. The third exam is a cumulative final exam.
+## Exams (15% of grade = 150 points)
+Three exams are worth 50 points each, which is only 5% of your final grade per exam. The purpose of the exams is to give you feedback on your ability to apply the knowledge learned in the previous part of the course. The second exam is a cumulative final exam.
 
 You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your exam alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots, except the instructor during a exam. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during an exam, but you may not post messages or send e-mails to someone while you take an exam. As with activities, I am always happy to answer your questions following the exam or discuss its concepts in more detail.
 In summary: Live help or automation is not okay for exams but any other resources are okay. Please let me know if you have questions about what is allowed during quizzes or exams. Maps onto CLOs 1-8.
 
 ## Final Project (25% of grade = 250 points)
-More details about the project, including the rubric for grading, will be posted to Canvas during the semester. As part of the project, you will present a summary of a research paper. This presentation will take place during the final exam period, and you must be present to receive full credit; if not, a 20% final project penalty will apply. Maps to CLO2, 4, and 5.
+More details about the project, including the rubric for grading, will be posted to Canvas during the course. As part of the project, you will present a summary of a research paper. You will need to video record your presentation. Maps to CLO2, 4, and 5.
 
 ## Extra Credit
-I intend to offer a small extra credit opportunity (approximately 15 points) for those who attend the Spartan Psychological Association Research Conference on campus this spring. Details are subject to change and will be announced in class. Maps to CLO9.
+I intend to offer a small extra credit opportunity (approximately 25 points) for those who watch and respond to short videos about mentorship. Details are subject to change and will be announced in class. Maps to CLO9.
 
 ## Late Assignments and Make-Ups {#makeup}
 
-Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last hour before the due date whenever possible. Late activity assignments will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, submit the assignment as soon as you can and complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception.
+Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last two hours before the due date whenever possible. Late activity assignments and reflection questions will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception. **When you need an exception to the late assignment penalty, I need the request form completed as soon as you are able to complete it**.
 
-Class activities that are scheduled, including reflection questions, quizzes, exams, and the final presentation, cannot be recreated easily. If you need a make-up assignment, please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request a make up. Complete this form as soon as you are aware of your need for a make-up and able to do so. Make-ups are intended for exceptional, unforeseen, and unavoidable circumstances.
+Class activities that are time-sensitive, such as quizzes and exams, cannot be recreated easily and are not accepted late without an approved makeup. If you need a make-up assignment, please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request a make up. Complete this form as soon **as you are aware of your need for a make-up and able to do so**. Make-ups are intended for exceptional, unforeseen, and unavoidable circumstances.
 
 ### No assignment submission after the last day of instruction
 
@@ -215,6 +226,7 @@ I can only accept assignments (except the final) until 11:59pm on the last day o
 Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
 
 The culminating activity for this course will be the final presentation.
+
 
 # Classroom Environment {#environment}
 
@@ -239,7 +251,7 @@ We agree to:
 
 Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
 
-You must obtain the instructor’s permission to make any audio or video recordings in this class.
+You must obtain the instructor’s permission to make any audio or video recordings in this class. Unless otherwise specified, course materials created by your instructor are copyrighted and cannot be redestributed.
 
 Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
 
@@ -253,72 +265,49 @@ The course schedule is tentative and likely to change; modifications will be pos
 **See Canvas for activity and exam due dates**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-Week Date                   Topics                                                                      Textbook    Quiz & Activity
+Week Starting Date          Topics                                                                      Textbook    Quiz & Activity
 ---- ---------------------- --------------------------------------------------------------------------- ----------- ----------------------
-1     Thu., Jan. 26         Introduction
+1     Mon., Aug. 21         Introduction                                                                            Engagement week
 
-2	    Tue., Jan. 31         The scientific method                                                       Ch. 1       Quiz 1, Act. 1
-
-      Thu., Feb. 2	        
+2	    Mon., Aug. 28         The scientific method                                                       Ch. 1       Quiz 1, Act. 1
       
-3	    Tue., Feb. 7          Operational definitions & measurement                                       Ch. 3       Quiz 2, Act. 2
+3	    Mon., Sep. 4          Operational definitions & measurement                                       Ch. 3       Quiz 2, Act. 2
       
-      Thu., Feb. 9	        
-
-4	    Tue., Feb. 14         Causality                                                                   Ch. 5       Quiz 3, Act. 3       
+4	    Mon., Sep. 11         Causality                                                                   Ch. 5       Quiz 3, Act. 3       
       
-      Thu., Feb. 16         	        
- 
-5	    Tue., Feb. 21         Exam 1 Review (Tue.)                                                          
+5	    Mon., Sep. 18         Exam 1                                                                                  Exam 1
 
-      Thu., Feb. 23	        Exam 1 (Thu.)
+6	    Mon., Sep. 25         Intro to Hypothesis Testing                                                             Quiz 4, Act. 4
 
-6	    Tue., Feb. 28         Intro to Hypothesis Testing                                                             Quiz 4, Act. 4
+7	    Mon., Oct. 2          Validity and Reliability                                                    Ch. 4       Quiz 5, Act. 5
 
-      Thu., Mar. 2	        
+8	    Mon., Oct. 9          Descriptive designs                                                                     Quiz 6, Act. 6
 
-7	    Tue., Mar. 7          Validity and Reliability                                                    Ch. 4       Quiz 5, Act. 5
+9	    Mon., Oct. 16         Experimental designs                                                        Ch. 6       Quiz 7, Act. 7  
 
-      Thu., Mar. 9	         
+10	  Mon., Oct. 23         Exploring mentorship in research careers                                                Extra credit     
 
-8	    Tue., Mar. 14         Descriptive designs                                                                     Quiz 6, Act. 6
+11	  Mon., Oct. 30         Exam 2                                                                                  Exam 2
 
-      Thu., Mar. 16	        
+12	  Mon., Nov. 6          Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8      
 
-9	    Tue., Mar. 21         Experimental designs                                                        Ch. 6       Quiz 7, Act. 7  
+13	  Mon., Nov. 13         Moderating, mediating, and confounding variables                            Ch. 9       Quiz 9, Act. 9
 
-      Thu., Mar. 23	        
+14	  Mon., Nov. 20         Project workshop 
 
-10	  Tue., Mar. 28         Spring Recess, **No Class Meetings**                                                    
+      Thu., Nov. 22         Non-instructional day
 
-      Thu., Mar. 30	         
-
-10	  Tue., Apr. 4          Exam review (Tue.)                                                                               
-
-      Thu., Apr. 6	        Exam 2 (Thu.)
-
-11	  Tue., Apr. 11         Experimental designs, continued; quasi-experimental designs                 Ch. 7       
-
-      Thu., Apr. 13	        Introducing the project  
-
-12	  Tue., Apr. 18         Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8
-
-      Thu., Apr. 20	         
-
-13	  Tue., Apr. 25         Moderating, mediating, and confounding variables                            Ch. 9       Quiz 9, Act. 9
-
-      Thu., Apr. 27	        
-
-14	  Tue., May 2           Statistics and effect size                                                  Ch. 10      Quiz 10,Act. 10    
-      Thu., May 4	           
-
-15	  Tue., May 9           Statistics and effect size, continued; exam review                                      Quiz 11
-
-      Thu., May 11 	        Exam 3 (Thu.)
-
-      Mon., May 15          Last day of instruction, assignment submission ends 11:59 pm
+      Thu., Nov. 23         Thanksgiving holiday, campus closed
       
-Final Tue., May 23	        Project presentations, 9:45am - 12:00pm                                                 Final project
+      Fri., Nov. 24         Rescheduled holiday, campus closed
+      
+15	  Mon., Nov. 27         Statistics and effect size                                                  Ch. 10      Quiz 10, Act. 10    
+
+16	  Mon., Dec. 4          Quiz 11 & Exam 3                                                                        Quiz 11 & Exam 3
+
+      Wed., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm
+      
+Final Fri., Dec. 8	        Project presentations due, 5:15pm                                                      Final project
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
