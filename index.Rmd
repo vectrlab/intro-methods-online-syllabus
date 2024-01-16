@@ -2,11 +2,13 @@
 title: "Syllabus"
 book_filename: psyc18
 output:
-  pdf_document:
-    toc: no
+  word_document:
+    toc: yes
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">**PSYC 018: Introduction to Research Methods**</p>
 
-<p align="center">**Section 80, Fall 2023**</p>
+<p align="center">**Section 80, Spring 2024**</p>
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
@@ -35,7 +37,7 @@ Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    Tuesdays and Thursdays 10:00am-11:00am online via [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
+Office Hours:	    Tuesdays and Thursdays 9:00am-10:00am online via [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
 
 # Course Information
 Classroom:	      Online; this is an asynchronous course
@@ -49,6 +51,10 @@ Prerequisites:	  PSYC 001 and STAT 095 or equivalents
 My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
 
 I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
+
+# Strike Update
+
+The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. We will be going on strike from January 22 – January 26. We demand management gives us a fair contract that recognizes the dignity of CSU faculty, staff, and students. Our working conditions are student learning conditions; we seek to protect both. For further information go to: www.calfac.org/strike.
 
 # Course Description
 The major goal of this course is for you to understand and evaluate claims from the perspective of the social scientist. This course will introduce you to research in psychology and prepare you to design your own research. Skills developed in this course will be useful to critical thinkers in a data-driven society.
@@ -272,47 +278,45 @@ The course schedule is tentative and likely to change; modifications will be pos
 ------------------------------------------------------------------------------------------------------------------------------------------
 Week Starting Date          Topics                                                                      Textbook    Quiz & Activity
 ---- ---------------------- --------------------------------------------------------------------------- ----------- ----------------------
-1     Mon., Aug. 21         Introduction                                                                            Engagement week
+1     Wed., Jan. 24         Introduction                                                                            Engagement week
 
-2	    Mon., Aug. 28         The scientific method                                                       Ch. 1       Quiz 1, Act. 1
+2     Mon., Jan. 29         Introduction, continued                                                                 Engagement week
+
+3	    Mon., Feb. 5          The scientific method                                                       Ch. 1       Quiz 1, Act. 1
       
-3	    Mon., Sep. 4          Operational definitions & measurement                                       Ch. 3       Quiz 2, Act. 2
+4	    Mon., Feb. 12         Operational definitions & measurement                                       Ch. 3       Quiz 2, Act. 2
       
-4	    Mon., Sep. 11         Causality                                                                   Ch. 5       Quiz 3, Act. 3       
+5	    Mon., Feb. 19         Causality                                                                   Ch. 5       Quiz 3, Act. 3       
+                            **Note: Drop/Add Deadline is Feb. 19**
       
-5	    Mon., Sep. 18         Exam 1                                                                                  Exam 1
+6	    Mon., Feb. 26         Exam 1                                                                                  Exam 1
 
-6	    Mon., Sep. 25         Intro to Hypothesis Testing                                                             Quiz 4, Act. 4
+7	    Mon., Mar. 4          Intro to Hypothesis Testing                                                             Quiz 4, Act. 4
 
-7	    Mon., Oct. 2          Validity and Reliability                                                    Ch. 4       Quiz 5, Act. 5
+8	    Mon., Mar. 11         Validity and Reliability                                                    Ch. 4       Quiz 5, Act. 5
 
-8	    Mon., Oct. 9          Descriptive designs                                                                     Quiz 6, Act. 6
+9	    Mon., Mar. 18         Descriptive designs                                                                     Quiz 6, Act. 6
 
-9	    Mon., Oct. 16         Experimental designs                                                        Ch. 6       Quiz 7, Act. 7  
+10    Mon., Mar. 25         Experimental designs                                                        Ch. 6       Quiz 7, Act. 7  
 
-10	  Mon., Oct. 23         Exploring mentorship in research careers                                                Extra credit     
+  	  Mon., Apr. 1          **Spring recess**
+  	                        Cesar Chavez Day (Observed) - Campus Closed Mon. Apr. 1
 
-11	  Mon., Oct. 30         Exam 2                                                                                  Exam 2
+11	  Mon., Apr. 8          Exam 2                                                                                  Exam 2, Extra credit
+                            
+                            Exploring mentorship in research careers extra credit
 
-12	  Mon., Nov. 6          Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8      
+12	  Mon., Apr. 15         Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8      
 
-13	  Mon., Nov. 13         Moderating, mediating, and confounding variables                            Ch. 9       Quiz 9, Act. 9
+13	  Mon., Apr. 22         Moderating, mediating, and confounding variables                            Ch. 9       Quiz 9, Act. 9
 
-14	  Mon., Nov. 20         Project workshop 
+14	  Mon., Apr. 29         Statistics and effect size                                                  Ch. 10      Quiz 10, Act. 10     
 
-      Thu., Nov. 22         Non-instructional day
+15	  Mon., May. 6          Quiz 11 & Exam 3                                                                        Quiz 11 & Exam 3
 
-      Thu., Nov. 23         Thanksgiving holiday, campus closed
+      Mon., May 13          Last day of instruction, assignment submission ends 11:59 pm
       
-      Fri., Nov. 24         Rescheduled holiday, campus closed
-      
-15	  Mon., Nov. 27         Statistics and effect size                                                  Ch. 10      Quiz 10, Act. 10    
-
-16	  Mon., Dec. 4          Quiz 11 & Exam 3                                                                        Quiz 11 & Exam 3
-
-      Wed., Dec. 6          Last day of instruction, assignment submission ends 11:59 pm
-      
-Final Fri., Dec. 8	        Project presentations due, 5:15pm                                                      Final project
+Final Fri., May 16	        Project presentations due, 5:15pm                                                       Final project
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
