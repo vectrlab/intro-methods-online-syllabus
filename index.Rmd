@@ -4,11 +4,11 @@ book_filename: psyc18
 output:
   word_document:
     toc: yes
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -51,10 +51,6 @@ Prerequisites:	  PSYC 001 and STAT 095 or equivalents
 My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
 
 I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
-
-# Strike Update
-
-The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. We will be going on strike from January 22 – January 26. We demand management gives us a fair contract that recognizes the dignity of CSU faculty, staff, and students. Our working conditions are student learning conditions; we seek to protect both. For further information go to: www.calfac.org/strike.
 
 # Course Description
 The major goal of this course is for you to understand and evaluate claims from the perspective of the social scientist. This course will introduce you to research in psychology and prepare you to design your own research. Skills developed in this course will be useful to critical thinkers in a data-driven society.
