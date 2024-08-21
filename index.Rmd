@@ -4,11 +4,11 @@ book_filename: psyc18
 output:
   word_document:
     toc: yes
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <p align="center">**PSYC 018: Introduction to Research Methods**</p>
 
-<p align="center">**Section 80, Spring 2024**</p>
+<p align="center">**Section 80, Fall 2024**</p>
 
 <p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
 
@@ -31,13 +31,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # Instructor Contact Information
 Instructor:	      David Schuster, Ph.D.
 
-Office Location:	DMH 315
+Office Location:	DMH 321
 
 Telephone:	      408-924-5659
 
 Email:	          david.schuster@sjsu.edu
 
-Office Hours:	    Tuesdays and Thursdays 9:00am-10:00am online via [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
+Office Hours:	    Tuesdays and Thursdays 2:00pm-2:50pm in person and on [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
 
 # Course Information
 Classroom:	      Online; this is an asynchronous course
@@ -48,7 +48,7 @@ Prerequisites:	  PSYC 001 and STAT 095 or equivalents
 
 # Welcome!
 
-My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
+My name is David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching college since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
 
 I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
 
@@ -111,7 +111,7 @@ Each assignment in this course maps onto one or more of these PLOs, with full co
 All graded assignments will be accepted in electronic form using the Canvas learning management system assignments page (Canvas is available at https://sjsu.instructure.com/). Communication regarding the course will be posted to Canvas or sent via the e-mail address linked to your MySJSU account. It is your responsibility to make sure you are enrolled in Canvas and receiving my emails.
 
 ## Required Texts/Readings
-Stanovich, K.E. (2018). How to think straight about psychology (11th ed.). Pearson Education. ISBN: 978-0134478623
+Stanovich, K.E. (2018). *How to think straight about psychology* (11th ed.). Pearson Education. ISBN: 978-0134478623
 
 You will need the textbook for required readings throughout the semester. Supplemental handouts will be provided on Canvas.
 
@@ -121,7 +121,7 @@ A laptop or tablet computer with Internet access will be necessary to participat
 
 You may choose to meet with me via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable or cover your webcam when not in use.
 
-This course may require occasional use of software such as Excel and Word. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
+This course may require occasional use of software such as Google Docs and Sheets. I will provide instruction in the use of the software; you do not need to start the course with this knowledge. You do *not* need to purchase licenses for any software.
 
 In case you need them, these software packages are available to you at no cost:
 
@@ -215,7 +215,7 @@ In summary: Live help or automation is not okay for exams but any other resource
 More details about the project, including the rubric for grading, will be posted to Canvas during the course. As part of the project, you will present a summary of a research paper. You will need to video record your presentation. Maps to CLO2, 4, and 5.
 
 ## Extra Credit
-I intend to offer a small extra credit opportunity (approximately 25 points) for those who watch and respond to short videos about mentorship. Details are subject to change and will be announced in class. Maps to CLO9.
+I intend to offer a small extra credit opportunity (approximately 25 points) related to research. Details are subject to change and will be announced in class. Maps to CLO9.
 
 ## Late Assignments and Make-Ups {#makeup}
 
@@ -242,7 +242,7 @@ We agree to:
 -	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
     + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
   
-    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com, processed through search engines, or examined using analytic tools to detect academic dishonesty. However, I will not allow turnitin.com to store your work in their repository.
   
     + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
   
@@ -250,7 +250,7 @@ We agree to:
 
 - **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
 
--	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+-	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, or hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
 
 -	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
 
@@ -269,52 +269,60 @@ Our library liaison is Christa Bailey. Email: christa.bailey@sjsu.edu
 
 The course schedule is tentative and likely to change; modifications will be posted to this page.
 
-**See Canvas for activity and exam due dates**
+**See Canvas for all due dates**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-Week Starting Date          Topics                                                                      Textbook    Quiz & Activity
----- ---------------------- --------------------------------------------------------------------------- ----------- ----------------------
-1     Wed., Jan. 24         Engagement Week                                                                         Engagement week
+Week Starting Date         Topics                                                                      Textbook     Quiz & Activity
+---- --------------------- --------------------------------------------------------------------------- -----------  ----------------------
+1     Wed., Aug. 21        Engagement Week                                                             Get textbook Welcome presentation
 
-2     Mon., Jan. 29         Introduction                                                                Ch. 1        
+2     Mon., Aug. 26        Introduction                                                                Ch. 1        Engagement week 
 
-3	    Mon., Feb. 5          The scientific method                                                       Ch. 1       Quiz 1, Act. 1
-      
-4	    Mon., Feb. 12         Operational definitions & measurement                                       Ch. 3       Quiz 2, Act. 2
-      
-5	    Mon., Feb. 19         Causality                                                                   Ch. 5       Quiz 3, Act. 3   
+3	    Mon., Sep. 2         The scientific method                                                       Ch. 1        Quiz 1, Act. 1
 
-                            **Note: Drop/Add Deadline is Feb. 19**
-      
-6	    Mon., Feb. 26         Exam 1                                                                                  Exam 1
-
-7	    Mon., Mar. 4          Intro to Hypothesis Testing                                                             Quiz 4, Act. 4
-
-8	    Mon., Mar. 11         Validity and Reliability                                                    Ch. 4       Quiz 5, Act. 5
-
-9	    Mon., Mar. 18         Descriptive designs                                                                     Quiz 6, Act. 6
-
-10    Mon., Mar. 25         Experimental designs                                                        Ch. 6       Quiz 7, Act. 7  
-
-  	  Mon., Apr. 1          **Spring recess**
-  	  
-  	                        Cesar Chavez Day (Observed) - Campus Closed Mon. Apr. 1
-
-11	  Mon., Apr. 8          Exam 2                                                                                  Exam 2, Extra credit
+                           **Labor Day, Campus closed Mon., Sep. 2**
                             
-                            Exploring mentorship in research careers extra credit
-
-12	  Mon., Apr. 15         Evaluating literature                                                       Ch. 8       Quiz 8, Act. 8      
-
-13	  Mon., Apr. 22         Moderating, mediating, and confounding variables                            Ch. 9       Quiz 9, Act. 9
-
-14	  Mon., Apr. 29         Statistics and effect size                                                  Ch. 10      Quiz 10, Act. 10     
-
-15	  Mon., May. 6          Quiz 11 & Exam 3                                                                        Quiz 11 & Exam 3
-
-      Mon., May 13          Last day of instruction, assignment submission ends 11:59 pm
+4	    Mon., Sep. 9         Operational definitions & measurement                                        Ch. 3       Quiz 2, Act. 2
       
-Final Thu., May 16	        Project presentations due, 5:15pm                                                       Final project
+5	    Mon., Sep. 16        Causality                                                                   Ch. 5        Quiz 3, Act. 3   
+      
+      Tue. Sept. 17	       **Last day to drop or add**
+      
+6	    Mon., Sep. 23        Exam 1                                                                                   Exam 1
+
+7	    Mon., Sep. 30        Intro to Hypothesis Testing                                                              Quiz 4, Act. 4
+
+8	    Mon., Oct. 7         Validity and Reliability                                                    Ch. 4        Quiz 5, Act. 5
+
+9	    Mon., Oct. 14        Descriptive designs                                                                      Quiz 6, Act. 6
+
+10    Mon., Oct. 21        Experimental designs                                                        Ch. 6        Quiz 7, Act. 7  
+ 
+11	  Mon., Oct. 28        Exam 2                                                                                   Exam 2, Extra credit
+                            
+                           Exploring mentorship in research careers extra credit
+
+12	  Mon., Nov. 4         Evaluating literature                                                       Ch. 8        Quiz 8, Act. 8     
+
+13	  Mon., Nov. 11        Moderating, mediating, and confounding variables                            Ch. 9        Quiz 9, Act. 9
+
+                           **Veteran's Day, Campus closed Mon., Nov. 11** 
+
+14	  Mon., Nov. 18        Statistics and effect size                                                  Ch. 10       Quiz 10, Act. 10     
+
+15	  Mon., Nov. 25        Project workshop                                                                        
+
+      Wed. Nov. 27         Non-instructional day
+
+      Thu. Nov. 28         Thanksgiving holiday, campus closed
+      
+      Fri. Nov. 29         Rescheduled holiday, campus closed
+
+16	  Mon., Dec. 2         Quiz 11 & Exam 3                                                                         Quiz 11 & Exam 3
+
+      Mon. Dec. 9          Last day of instruction, make-up assignment submission ends 11:59 pm
+      
+Final Thu., Dec. 12	       Project presentations due, 5:15pm                                                        Final project
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
