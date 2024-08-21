@@ -4,11 +4,11 @@ book_filename: psyc18
 output:
   word_document:
     toc: yes
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     theme: united
-  pdf_document:
-    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -282,7 +282,7 @@ Week Starting Date         Topics                                               
 
                            **Labor Day, Campus closed Mon., Sep. 2**
                             
-4	    Mon., Sep. 9         Operational definitions & measurement                                        Ch. 3       Quiz 2, Act. 2
+4	    Mon., Sep. 9         Operational definitions & measurement                                       Ch. 3        Quiz 2, Act. 2
       
 5	    Mon., Sep. 16        Causality                                                                   Ch. 5        Quiz 3, Act. 3   
       
