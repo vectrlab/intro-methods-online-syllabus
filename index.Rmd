@@ -4,11 +4,11 @@ book_filename: psyc18
 output:
   word_document:
     toc: yes
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -242,7 +242,7 @@ We agree to:
 -	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
     + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
   
-    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com, processed through search engines, or examined using analytic tools to detect academic dishonesty. However, I will not allow turnitin.com to store your work in their repository.
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and/or examined using analytic tools to detect academic dishonesty. However, I will not allow turnitin.com to store your work in their repository.
   
     + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
   
