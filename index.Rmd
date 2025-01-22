@@ -4,11 +4,11 @@ book_filename: psyc18
 output:
   word_document:
     toc: yes
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -193,7 +193,7 @@ Just as the name would imply, Engagement Week is your opportunity to make sure y
 - Introduce yourself on our discussion board
 
 ## Activity Assignments (30% of grade = 300 points)
-Ten activities are worth 30 points each. The activities are designed to give you hands-on practice with the techniques discussed in the lecture and handouts. For each assigned activity, attempt every item at least once. Type out your answers to each item along with any work needed to solve the problem. This is graded for completion, (it is okay to make mistakes!) and you must attempt every item without leaving any blank. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. Always check your completed work against any answer key posted to Canvas for feedback on your mastery. I am always happy to answer your questions about the activities, discuss strategies, and/or provide additional feedback on your work. Maps onto CLOs 1-7.
+Ten activities are worth 30 points each. The activities are designed to give you hands-on practice with the techniques discussed in the lecture and handouts. For each assigned activity, attempt every item at least once. Type out your answers to each item along with any work needed to solve the problem. This is graded for completion, (it is okay to make mistakes!) and you must attempt every item without leaving any blank. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. You are encouraged to work collaboratively, but everyone must do their own work unless otherwise specified; copying is not acceptable. **You may not copy content written by other students or AI or chatbots (e.g., ChatGPT) to write your response to reflection questions, although you may use these tools to facilitate your learning.**. This is the difference between discussing and asking questions about your activity assignment, which is acceptable, and asking someone (or AI) to write your assignment for you, which is not acceptable and will be handled as academic dishonesty. That said, I will always encourage you to start with me for your questions, as AI tools are still emerging and can be unreliable. I may ask to meet with you to discuss your submitted assignments before assigning the grade. Always check your completed work against any answer key posted to Canvas for feedback on your mastery. I am always happy to answer your questions about the activities, discuss strategies, and/or provide additional feedback on your work. Maps onto CLOs 1-7.
 
 ## Reflection Questions (10% of grade = 100 points)
 Ten reflection questions are worth 10 points each. During video lectures, I will ask one or more a reflection questions; you only need to find and answer one of them. The purpose of the reflection question is to help you think actively about the lecture content and connect it to your own experience. This is graded for completion (it is okay to not have the right answer). Note that lecture 10 has no question in the video; instead, I will post a question on the Canvas assignment page. Maps onto CLOs 1-7.
@@ -280,15 +280,15 @@ Week Starting Date         Topics                                               
 
 3	    Mon., Feb. 3         The scientific method                                                       Ch. 1        Quiz 1, Act. 1
                             
-4	    Mon., Feb. 10         Operational definitions & measurement                                       Ch. 3        Quiz 2, Act. 2
+4	    Mon., Feb. 10        Operational definitions & measurement                                       Ch. 3        Quiz 2, Act. 2
       
 5	    Mon., Feb. 17        Causality                                                                   Ch. 5        Quiz 3, Act. 3   
       
-      Tue., Feb. 18       **Last day to drop or add**
+      Tue., Feb. 18        **Last day to drop or add**
       
 6	    Mon., Feb. 24        Exam 1                                                                                   Exam 1
 
-7	    Mon., Mar. 3        Intro to Hypothesis Testing                                                              Quiz 4, Act. 4
+7	    Mon., Mar. 3         Intro to Hypothesis Testing                                                              Quiz 4, Act. 4
 
 8	    Mon., Mar. 10        Validity and Reliability                                                    Ch. 4        Quiz 5, Act. 5
 
@@ -303,8 +303,6 @@ Week Starting Date         Topics                                               
 12	  Mon., Apr. 7         Evaluating literature                                                       Ch. 8        Quiz 8, Act. 8     
 
 13	  Mon., Apr. 14        Moderating, mediating, and confounding variables                            Ch. 9        Quiz 9, Act. 9
-
-                           **Veteran's Day, Campus closed Mon., Nov. 11** 
 
 14	  Mon., Apr. 21        Statistics and effect size                                                  Ch. 10       Quiz 10, Act. 10     
 
